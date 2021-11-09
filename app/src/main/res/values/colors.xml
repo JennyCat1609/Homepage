@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6a89cc</color>
+    <color name="colorPrimaryDark">#2f3640</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#f8a5c2</color>
+    <color name="trans">#ffcccc</color>
+    <color name="title">#4a69bd</color>
+    <color name="box">#e66767</color>
+    <color name="rosy_hightlight">#f7d794</color>
+    <color name="creamy_peach">#f3a683</color>
+    <color name="summertime">#f5cd79</color>
+    <color name="pink">#f78fb3</color>
+    <color name="desire">#3c6382</color>
+    <color name="light_purple">#60a3bc</color>
+
+</resources>

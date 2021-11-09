@@ -1,0 +1,905 @@
+<resources>
+    <string name="app_name">CitizenshipTest</string>
+    <string name="titlePart1">AMERICAN GOVERNMENT \nCHÍNH PHỦ HOA KỲ</string>
+    <string name="part1A1">Principles of American Democracy</string>
+    <string name="part1aVn">Các Nguyên Tắc Của Dân Chủ Hoa Kỳ *** 12 câu hỏi</string>
+    <string name="part1A">Principles of American Democracy \n*** \nCác Nguyên Tắc Của Dân Chủ Hoa Kỳ \n*** \n12 Questions</string>
+    <string name="part1B">System of Government \n*** \nHệ Thống Của Chính Phủ \n*** \n35 Questions</string>
+    <string name="part1B1">System of Government</string>
+    <string name="part1B1VN">Hệ Thống Của Chính Phủ *** 35 câu hỏi</string>
+    <string name="part1C">Rights and Responsibilities \n*** \nQuyền Hạn và Bổn Phận \n*** \n10 Questions</string>
+    <string name="part1C1">Rights and Responsibilities</string>
+    <string name="part1C1VN">Quyền Hạn và Bổn Phận *** 10 Questions</string>
+    <string name="titlePart2">AMERICAN HISTORY \nLỊCH SỬ HOA KỲ</string>
+    <string name="part2A">Colonial Period and Independence \n*** \n Thời kỳ Thuộc Địa và Độc Lập \n*** \n13 Questions</string>
+    <string name="part2A1">Colonial Period and Independence</string>
+    <string name="part2A1VN">Thời kỳ Thuộc Địa và Độc Lập *** 13 Questions</string>
+    <string name="part2B">1800s \n*** \n Thời Kỳ 1800 \n*** \n7 Questions</string>
+    <string name="part2B1">1800s </string>
+    <string name="part2B1VN">Thời Kỳ 1800 *** 7 Questions</string>
+    <string name="part2C">Recent American History and Other Important Historical Information \n*** \n Lịch Sử Cận Đại Hoa Kỳ và Các Thông Tin Lịch Sử Quan Trọng Khác \n*** \n10 Questions</string>
+    <string name="part2C1">Recent American History and Other Important Historical Information</string>
+    <string name="part2C1VN">Lịch Sử Cận Đại Hoa Kỳ và Các Thông Tin Lịch Sử Quan Trọng Khác \n10 Questions</string>
+    <string name="titlePart3">INTEGRATED CIVICS \nTỔNG HỢP VỀ KIẾN THỨC CÔNG DÂN</string>
+    <string name="part3A">Geography \n*** \nĐịa lý \n*** \n8 Questions</string>
+    <string name="part3A1">Geography</string>
+    <string name="part3A1VN">Địa lý *** 8 Questions</string>
+    <string name="part3B">Symbols \n*** \nCác Biểu Tượng \n*** \n3 Questions</string>
+    <string name="part3B1">Symbols</string>
+    <string name="part3B1VN">Các Biểu Tượng *** 3 Questions</string>
+    <string name="part3C">Holidays \n*** \nCác Ngày Lễ \n*** \n2 Questions</string>
+    <string name="part3C1">Holidays</string>
+    <string name="part3C1VN">Các Ngày Lễ *** 2 Questions</string>
+
+    <string name="empty"></string>
+
+    <!--    English Questions -->
+    <string name="question_1">What is the supreme law of the land ?</string>
+    <string name="answer_1">▪ the Constitution</string>
+    <string name="question_2">What does the Constitution do ?</string>
+    <string name="answer_2">▪ sets up the government
+                            \n▪ defines the government
+                            \n▪ protects basic rights of Americans</string>
+    <string name="question_3">The idea of self-government is in the first three words of the Constitution. What are these words ?</string>
+    <string name="answer_3">▪ We the People</string>
+    <string name="question_4">What is an amendment ?</string>
+    <string name="answer_4">▪ a change (to the Constitution)
+                            \n▪ an addition (to the Constitution)</string>
+    <string name="question_5">What do we call the first ten amendments to the Constitution ?</string>
+    <string name="answer_5">▪ The Bill of Rights</string>
+    <string name="question_6">What is one right or freedom from the First Amendment ? </string>
+    <string name="answer_6">▪ speech
+                         \n▪ religion
+                         \n▪ assembly
+                         \n▪ press
+                         \n▪ petition the government</string>
+    <string name="question_7">How many amendments does the Constitution have ?</string>
+    <string name="answer_7">▪ twenty-seven (27)</string>
+    <string name="question_8">What did the Declaration of Independence do ?</string>
+    <string name="answer_8">▪ announced our independence (from Great Britain)
+                          \n▪ declared our independence (from Great Britain)
+                          \n▪ said that the United States is free (from Great Britain)</string>
+    <string name="question_9">What are two rights in the Declaration of Independence ?</string>
+    <string name="answer_9">▪ life
+                         \n▪ liberty
+                         \n▪ pursuit of happiness</string>
+    <string name="question_10">What is freedom of religion ?</string>
+    <string name="answer_10">▪ You can practice any religion, or not practice a religion.</string>
+    <string name="question_11">What is the economic system in the United States ?</string>
+    <string name="answer_11">▪ capitalist economy
+                          \n▪ market economy</string>
+    <string name="question_12">What is the “rule of law” ?</string>
+    <string name="answer_12">▪ Everyone must follow the law.
+                          \n▪ Leaders must obey the law.
+                          \n▪ Government must obey the law.
+                          \n▪ No one is above the law</string>
+    <string name="question_13">Name one branch or part of the government ?</string>
+    <string name="answer_13">  ▪ Congress
+                            \n▪ legislative
+                            \n▪ President
+                            \n▪ executive
+                            \n▪ the courts
+                            \n▪ judicial</string>
+    <string name="question_14">What stops one branch of government from becoming too powerful ?</string>
+    <string name="answer_14">▪ checks and balances
+                           \n▪ separation of powers</string>
+    <string name="question_15">Who is in charge of the executive branch ?</string>
+    <string name="answer_15">▪ the President</string>
+    <string name="question_16">Who makes federal laws?</string>
+    <string name="answer_16">▪ Congress \n▪ Senate and House (of Representatives) \n▪ (U.S. or national) legislature</string>
+    <string name="question_17">What are the two parts of the U.S. Congress?*</string>
+    <string name="answer_17">▪ the Senate and House (of Representatives)</string>
+    <string name="question_18">How many U.S. Senators are there?</string>
+    <string name="answer_18">▪ one hundred (100)</string>
+    <string name="question_19">We elect a U.S. Senator for how many years? </string>
+    <string name="answer_19">▪ six (6)</string>
+    <string name="question_20">Who is one of your state’s U.S. Senators now?*</string>
+    <string name="answer_20">▪ Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C.
+(or the territory where the applicant lives) has no U.S. Senators.]</string>
+    <string name="question_21">The House of Representatives has how many voting members? </string>
+    <string name="answer_21">▪ four hundred thirty-five (435)</string>
+    <string name="question_22">We elect a U.S. Representative for how many years?</string>
+    <string name="answer_22">▪ two (2)</string>
+    <string name="question_23">Name your U.S. Representative.</string>
+    <string name="answer_23">▪ Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may
+provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has
+no (voting) Representatives in Congress.]</string>
+    <string name="question_24">Who does a U.S. Senator represent?</string>
+    <string name="answer_24">▪ all people of the state</string>
+    <string name="question_25">Why do some states have more Representatives than other states?</string>
+    <string name="answer_25">▪ (because of) the state’s population
+                          \n▪ (because) they have more people
+                          \n▪ (because) some states have more people</string>
+    <string name="question_26">We elect a President for how many years?</string>
+    <string name="answer_26">▪ four (4)</string>
+    <string name="question_27">In what month do we vote for President?*</string>
+    <string name="answer_27">▪ November</string>
+    <string name="question_28">What is the name of the President of the United States now?*</string>
+    <string name="answer_28">▪ Visit uscis.gov/citizenship/testupdates for the name of the President of the United States.</string>
+    <string name="question_29">What is the name of the Vice President of the United States now?</string>
+    <string name="answer_29">▪ Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States.</string>
+    <string name="question_30">If the President can no longer serve, who becomes President?</string>
+    <string name="answer_30">▪ the Vice President</string>
+    <string name="question_31">If both the President and the Vice President can no longer serve, who becomes President?</string>
+    <string name="answer_31">▪ the Speaker of the House</string>
+    <string name="question_32">Who is the Commander in Chief of the military?</string>
+    <string name="answer_32">▪ the President</string>
+    <string name="question_33">Who signs bills to become laws?</string>
+    <string name="answer_33">▪ the President</string>
+    <string name="question_34">Who vetoes bills?</string>
+    <string name="answer_34">▪ the President</string>
+    <string name="question_35">What does the President’s Cabinet do?</string>
+    <string name="answer_35">▪ advises the President</string>
+    <string name="question_36">What are two Cabinet-level positions?</string>
+    <string name="answer_36">
+  ▪ Secretary of Agriculture
+\n▪ Secretary of Commerce
+\n▪ Secretary of Defense
+\n▪ Secretary of Education
+\n▪ Secretary of Energy
+\n▪ Secretary of Health and Human Services
+\n▪ Secretary of Homeland Security
+\n▪ Secretary of Housing and Urban Development
+\n▪ Secretary of the Interior
+\n▪ Secretary of Labor
+\n▪ Secretary of State
+\n▪ Secretary of Transportation
+\n▪ Secretary of the Treasury
+\n▪ Secretary of Veterans Affairs
+\n▪ Attorney General
+\n▪ Vice President</string>
+    <string name="question_37">What does the judicial branch do?</string>
+    <string name="answer_37">▪ reviews laws
+\n▪ explains laws
+\n▪ resolves disputes (disagreements)
+\n▪ decides if a law goes against the Constitution</string>
+    <string name="question_38">What is the highest court in the United States?</string>
+    <string name="answer_38">▪ the Supreme Court</string>
+    <string name="question_39">How many justices are on the Supreme Court?</string>
+    <string name="answer_39">▪ Visit uscis.gov/citizenship/testupdates for the number of justices on the Supreme Court.</string>
+    <string name="question_40">Who is the Chief Justice of the United States now?</string>
+    <string name="answer_40">▪ Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States</string>
+    <string name="question_41">Under our Constitution, some powers belong to the federal government. What is one power of the federal
+government?</string>
+    <string name="answer_41">▪ to print money
+\n▪ to declare war
+\n▪ to create an army
+\n▪ to make treaties</string>
+    <string name="question_42">Under our Constitution, some powers belong to the states. What is one power of the states? </string>
+    <string name="answer_42">▪ provide schooling and education
+\n▪ provide protection (police)
+\n▪ provide safety (fire departments)
+\n▪ give a driver’s license
+\n▪ approve zoning and land use</string>
+    <string name="question_43">Who is the Governor of your state now?</string>
+    <string name="answer_43"> Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.]</string>
+    <string name="question_44">What is the capital of your state?*</string>
+    <string name="answer_44">▪ Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a
+capital. Residents of U.S. territories should name the capital of the territory.]</string>
+    <string name="question_45">What are the two major political parties in the United States?*</string>
+    <string name="answer_45">▪ Democratic and Republican</string>
+    <string name="question_46">What is the political party of the President now?</string>
+    <string name="answer_46">▪ Visit uscis.gov/citizenship/testupdates for the political party of the President.</string>
+    <string name="question_47">What is the name of the Speaker of the House of Representatives now?</string>
+    <string name="answer_47">▪ Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives</string>
+
+    <string name="question_48">There are four amendments to the Constitution about who can vote. Describe one of them</string>
+    <string name="answer_48">▪ Citizens eighteen (18) and older (can vote).
+\n▪ You don’t have to pay (a poll tax) to vote.
+\n▪ Any citizen can vote. (Women and men can vote.)
+\n▪ A male citizen of any race (can vote).</string>
+
+    <string name="question_49">What is one responsibility that is only for United States citizens?*</string>
+    <string name="answer_49">▪ serve on a jury
+\n▪ vote in a federal election</string>
+
+    <string name="question_50">Name one right only for United States citizens.</string>
+    <string name="answer_50">▪ vote in a federal election
+\n▪ run for federal office</string>
+
+    <string name="question_51">What are two rights of everyone living in the United States?</string>
+    <string name="answer_51">▪ freedom of expression
+\n▪ freedom of speech
+\n▪ freedom of assembly
+\n▪ freedom to petition the government
+\n▪ freedom of religion
+\n▪ the right to bear arms</string>
+
+    <string name="question_52">What do we show loyalty to when we say the Pledge of Allegiance?</string>
+    <string name="answer_52">▪ the United States
+\n▪ the flag</string>
+
+    <string name="question_53">What is one promise you make when you become a United States citizen?</string>
+    <string name="answer_53">▪ give up loyalty to other countries
+\n▪ defend the Constitution and laws of the United States
+\n▪ obey the laws of the United States
+\n▪ serve in the U.S. military (if needed)
+\n▪ serve (do important work for) the nation (if needed)
+\n▪ be loyal to the United States</string>
+
+    <string name="question_54">How old do citizens have to be to vote for President?*</string>
+    <string name="answer_54">▪ eighteen (18) and older</string>
+
+    <string name="question_55">What are two ways that Americans can participate in their democracy?</string>
+    <string name="answer_55">▪ vote
+\n▪ join a political party
+\n▪ help with a campaign
+\n▪ join a civic group
+\n▪ join a community group
+\n▪ give an elected official your opinion on an issue
+\n▪ call Senators and Representatives
+\n▪ publicly support or oppose an issue or policy
+\n▪ run for office
+\n▪ write to a newspaper</string>
+
+    <string name="question_56">When is the last day you can send in federal income tax forms?*</string>
+    <string name="answer_56">▪ April 15</string>
+
+    <string name="question_57">When must all men register for the Selective Service?</string>
+    <string name="answer_57">▪ at age eighteen (18)
+▪ between eighteen (18) and twenty-six (26)</string>
+
+    <string name="question_58">What is one reason colonists came to America?</string>
+    <string name="answer_58">▪ freedom
+        \n▪ political liberty
+        \n▪ religious freedom
+        \n▪ economic opportunity
+        \n▪ practice their religion
+        \n▪ escape persecution</string>
+
+    <string name="question_59">Who lived in America before the Europeans arrived?</string>
+    <string name="answer_59">▪ American Indians
+\n▪ Native Americans</string>
+
+    <string name="question_60">What group of people was taken to America and sold as slaves?</string>
+    <string name="answer_60">▪ Africans
+\n▪ people from Africa</string>
+
+    <string name="question_61">Why did the colonists fight the British?</string>
+    <string name="answer_61">▪ because of high taxes (taxation without representation)
+\n▪ because the British army stayed in their houses (boarding, quartering)
+\n▪ because they didn’t have self-government</string>
+
+    <string name="question_62">Who wrote the Declaration of Independence?</string>
+    <string name="answer_62">▪ (Thomas) Jefferson</string>
+
+    <string name="question_63">When was the Declaration of Independence adopted?</string>
+    <string name="answer_63">▪ July 4, 1776</string>
+
+    <string name="question_64">There were 13 original states. Name three.</string>
+    <string name="answer_64">▪ New Hampshire
+\n▪ Massachusetts
+\n▪ Rhode Island
+\n▪ Connecticut
+\n▪ New York
+\n▪ New Jersey
+\n▪ Pennsylvania
+\n▪ Delaware
+\n▪ Maryland
+\n▪ Virginia
+\n▪ North Carolina
+\n▪ South Carolina
+\n▪ Georgia</string>
+
+    <string name="question_65">What happened at the Constitutional Convention?</string>
+    <string name="answer_65">▪ The Constitution was written.
+\n▪ The Founding Fathers wrote the Constitution.</string>
+
+    <string name="question_66">When was the Constitution written?</string>
+    <string name="answer_66">▪ 1787</string>
+
+    <string name="question_67">The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.</string>
+    <string name="answer_67">▪ (James) Madison
+\n▪ (Alexander) Hamilton
+\n▪ (John) Jay
+\n▪ Publius</string>
+
+    <string name="question_68">What is one thing Benjamin Franklin is famous for?</string>
+    <string name="answer_68">▪ U.S. diplomat
+\n▪ oldest member of the Constitutional Convention
+\n▪ first Postmaster General of the United States
+\n▪ writer of “Poor Richard’s Almanac”
+\n▪ started the first free libraries</string>
+
+    <string name="question_69">Who is the “Father of Our Country”?</string>
+    <string name="answer_69">▪ (George) Washington</string>
+
+    <string name="question_70">Who was the first President?*</string>
+    <string name="answer_70">▪ (George) Washington</string>
+
+    <string name="question_71">What territory did the United States buy from France in 1803?</string>
+    <string name="answer_71">▪ the Louisiana Territory \n▪ Louisiana</string>
+
+    <string name="question_72">Name one war fought by the United States in the 1800s.</string>
+    <string name="answer_72">▪ War of 1812 \n▪ Mexican-American War \n▪ Civil War \n▪ Spanish-American War</string>
+
+    <string name="question_73">Name the U.S. war between the North and the South.</string>
+    <string name="answer_73">▪ the Civil War \n▪ the War between the States </string>
+
+    <string name="question_74">Name one problem that led to the Civil War.</string>
+    <string name="answer_74">▪ slavery \n▪ economic reasons \n▪ states’ rights</string>
+
+    <string name="question_75">What was one important thing that Abraham Lincoln did?*</string>
+    <string name="answer_75">▪ freed the slaves (Emancipation Proclamation)
+                             \n▪ saved (or preserved) the Union
+                             \n▪ led the United States during the Civil War </string>
+    <string name="question_76">What did the Emancipation Proclamation do?</string>
+    <string name="answer_76">▪ freed the slaves \n▪ freed slaves in the Confederacy
+                            \n▪ freed slaves in the Confederate states \n▪ freed slaves in most Southern states</string>
+
+    <string name="question_77">What did Susan B. Anthony do?</string>
+    <string name="answer_77">▪ fought for women’s rights \n▪ fought for civil rights</string>
+
+    <string name="question_78">Name one war fought by the United States in the 1900s.*</string>
+    <string name="answer_78">▪ World War I
+        \n▪ World War II
+        \n▪ Korean War
+        \n▪ Vietnam War
+        \n▪ (Persian) Gulf War</string>
+    <string name="question_79"> Who was President during World War I?</string>
+    <string name="answer_79">▪ (Woodrow) Wilson</string>
+
+    <string name="question_80"> Who was President during the Great Depression and World War II?</string>
+    <string name="answer_80">▪ (Franklin) Roosevelt</string>
+
+    <string name="question_81"> Who did the United States fight in World War II?</string>
+    <string name="answer_81">▪ Japan, Germany, and Italy</string>
+
+    <string name="question_82"> Before he was President, Eisenhower was a general. What war was he in?</string>
+    <string name="answer_82">▪ World War II</string>
+
+    <string name="question_83">During the Cold War, what was the main concern of the United States?</string>
+    <string name="answer_83">▪ Communism</string>
+
+    <string name="question_84">What movement tried to end racial discrimination?</string>
+    <string name="answer_84">▪ civil rights (movement)</string>
+
+    <string name="question_85">What did Martin Luther King, Jr. do?*</string>
+    <string name="answer_85">▪ fought for civil rights
+        \n▪ worked for equality for all Americans</string>
+
+    <string name="question_86"> What major event happened on September 11, 2001, in the United States?</string>
+    <string name="answer_86">▪ Terrorists attacked the United States.</string>
+
+    <string name="question_87"> Name one American Indian tribe in the United States.</string>
+    <string name="answer_87">[USCIS Officers will be supplied with a list of federally recognized American Indian tribes.]
+    ▪ Cherokee \n▪ Navajo \n▪ Sioux \n▪ Chippewa \n▪ Choctaw \n▪ Pueblo \n▪ Apache \n▪ Iroquois \n▪ Creek
+    ▪ Blackfeet \n▪ Seminole \n▪ Cheyenne \n▪ Arawak \n▪ Shawnee \n▪ Mohegan \n▪ Huron \n▪ Oneida \n▪ Lakota \n▪ Crow
+    \n▪ Teton \n▪ Hopi \n▪ Inuit</string>
+
+    <string name="question_88">Name one of the two longest rivers in the United States.</string>
+    <string name="answer_88">▪ Missouri (River) \n▪ Mississippi (River) </string>
+    <string name="question_89"> What ocean is on the West Coast of the United States?</string>
+    <string name="answer_89">▪ Pacific (Ocean)</string>
+    <string name="question_90">What ocean is on the East Coast of the United States?</string>
+    <string name="answer_90">▪ Atlantic (Ocean)</string>
+    <string name="question_91"> Name one U.S. territory.</string>
+    <string name="answer_91">▪ Puerto Rico \n▪ U.S. Virgin Islands \n▪ American Samoa \n▪ Northern Mariana Islands \n▪ Guam</string>
+    <string name="question_92"> Name one state that borders Canada.</string>
+    <string name="answer_92">▪ Maine \n▪ New Hampshire \n▪ Vermont \n▪ New York \n▪ Pennsylvania \n▪ Ohio
+        \n▪ Michigan \n▪ Minnesota \n▪ North Dakota \n▪ Montana \n▪ Idaho \n▪ Washington \n▪ Alaska</string>
+    <string name="question_93"> Name one state that borders Mexico.</string>
+    <string name="answer_93">▪ California \n▪ Arizona \n▪ New Mexico \n▪ Texas</string>
+    <string name="question_94">What is the capital of the United States?*</string>
+    <string name="answer_94">▪ Washington, D.C.</string>
+    <string name="question_95"> Where is the Statue of Liberty?*</string>
+    <string name="answer_95">▪ New York (Harbor) \n▪ Liberty Island
+        \n[Also acceptable are New Jersey, near New York City, and on the Hudson (River).]</string>
+
+    <string name="question_96"> Why does the flag have 13 stripes?</string>
+    <string name="answer_96">▪ because there were 13 original colonies
+        \n▪ because the stripes represent the original colonies</string>
+    <string name="question_97"> Why does the flag have 50 stars?*</string>
+    <string name="answer_97">▪ because there is one star for each state
+    \n▪ because each star represents a state \n▪ because there are 50 states</string>
+    <string name="question_98">What is the name of the national anthem?</string>
+    <string name="answer_98">▪ The Star-Spangled Banner</string>
+    <string name="question_99">When do we celebrate Independence Day?*</string>
+    <string name="answer_99">▪ July 4</string>
+    <string name="question_100">Name two national U.S. holidays.</string>
+    <string name="answer_100">▪ New Year’s Day \n▪ Martin Luther King, Jr. Day
+    \n▪ Presidents’ Day \n▪ Memorial Day \n▪ Independence Day \n▪ Labor Day
+    \n▪ Columbus Day \n▪ Veterans Day \n▪ Thanksgiving \n▪ Christmas</string>
+
+
+
+    <!--    Vietnamese Questions-->
+    <string name="question_1VN">Luật cao nhất của quốc gia là gì ? </string>
+    <string name="answer_1VN">▪ Hiến Pháp</string>
+
+    <string name="question_2VN">Hiến Pháp có mục đích gì ?</string>
+    <string name="answer_2VN">▪ thiết lập chánh phủ
+                          \n▪ mô tả tổ chức chánh phủ
+                          \n▪ bảo vệ các quyền căn bản của người dân Hoa Kỳ</string>
+
+    <string name="question_3VN">Ý tưởng tự quản trị nằm trong ba chữ đầu tiên của Hiến Pháp. Các chữ này là những chữ nào?</string>
+    <string name="answer_3VN">▪ Chúng tôi người dân (We the People)</string>
+
+    <string name="question_4VN">Tu chính án là gì?</string>
+    <string name="answer_4VN">▪ một sự thay đổi (trong Hiến Pháp)
+                          \n▪ một sự thêm (vào Hiến Pháp)</string>
+
+    <string name="question_5VN">Ta gọi mười tu chính đầu tiên vào Hiến Pháp là gì?</string>
+    <string name="answer_5VN">▪ Luật Dân Quyền</string>
+
+    <string name="question_6VN">Kể ra Một quyền hoặc một tự do trong Tu Chính Án Đầu Tiên (First Amendment)?*</string>
+    <string name="answer_6VN">▪ tự do ngôn luận
+                          \n▪ tự do tôn giáo
+                          \n▪ tự do hội họp
+                          \n▪ tự do báo chí
+                          \n▪ tự do thỉnh nguyện chánh phủ</string>
+
+    <string name="question_7VN">Hiến Pháp có bao nhiêu tu chính án?</string>
+    <string name="answer_7VN">▪ hai mươi bảy (27)</string>
+
+    <string name="question_8VN">Bản Tuyên Ngôn Độc Lập có ý nghĩa gì?</string>
+    <string name="answer_8VN">▪ thông báo nền độc lập của chúng ta (khỏi Anh Quốc)
+                          \n▪ tuyên cáo nền độc lập của chúng ta (khỏi Anh Quốc)
+                          \n▪ cho biết Hoa Kỳ đã tự do (khỏi Anh Quốc)</string>
+
+    <string name="question_9VN">Kể ra Hai quyền trong bản Bản Tuyên Ngôn Độc Lập?</string>
+    <string name="answer_9VN">▪ quyền sống
+                          \n▪ quyền tự do
+                          \n▪ quyền theo đuổi hạnh phúc</string>
+
+    <string name="question_10VN">Tự do tôn giáo là gì?</string>
+    <string name="answer_10VN"> ▪ Bạn có thể theo bất cứ tôn giáo nào, hoặc không theo tôn giáo nào.</string>
+
+    <string name="question_11VN">Hệ thống kinh tế của Hoa Kỳ gọi là gì?*</string>
+    <string name="answer_11VN">▪ kinh tế tư bản
+                          \n▪ kinh tế thị trường</string>
+
+    <string name="question_12VN">“Thượng tôn luật pháp” là gì?</string>
+    <string name="answer_12VN">▪ Mọi người đều phải tuân theo luật pháp.
+                          \n▪ Cả các người lãnh đạo đều phải tuân theo luật pháp.
+                          \n▪ Nhà cầm quyền phải tuân theo luật pháp.
+                          \n▪ Không ai được ở trên pháp luật cả.</string>
+
+    <string name="question_13VN">Cho biết một ngành hay phần của công quyền.*</string>
+    <string name="answer_13VN">▪ Quốc Hội
+    \n▪ lập pháp
+    \n▪ Tổng Thống
+    \n▪ hành pháp
+    \n▪ các tòa án
+    \n▪ tư pháp</string>
+
+    <string name="question_14VN">Cách nào ngăn cản một ngành công quyền trở thành quá mạnh?</string>
+    <string name="answer_14VN">▪ kiểm soát lẫn nhau \n▪ phân quyền</string>
+
+    <string name="question_15VN">Ai phụ trách hành pháp?</string>
+    <string name="answer_15VN">▪ Tổng Thống</string>
+
+    <string name="question_16VN">Ai làm luật liên bang?</string>
+    <string name="answer_16VN">▪ Quốc Hội
+        \n▪ Thượng và Hạ Nghị Viện
+        \n▪ Ngành Lập Pháp (của Liên Bang hay Quốc Gia)</string>
+
+    <string name="question_17VN">Hai phần của Quốc Hội Hoa Kỳ là gì?*</string>
+    <string name="answer_17VN">▪ Thượng và Hạ Nghị Viện</string>
+
+    <string name="question_18VN">Có bao nhiêu Thượng Nghị Sĩ Liên Bang?</string>
+    <string name="answer_18VN">▪ một trăm (100)</string>
+
+    <string name="question_19VN">Chúng ta bầu Thượng Nghị Sĩ cho bao nhiêu năm?</string>
+    <string name="answer_19VN">▪ sáu (6)</string>
+
+    <string name="question_20VN">Ai là một trong những Thượng Nghị Sĩ Liên Bang của bạn?*</string>
+    <string name="answer_20VN">▪ Câu trả lời thay đổi tùy tiểu bang. [Cư dân ở thủ đô Washington, D.C. và cư dân ở các lãnh thổ
+    Hoa Kỳ trả lời là DC hoặc lãnh thổ mình ở không có thượng-nghị-sĩ.]</string>
+
+    <string name="question_21VN">Hạ-Nghị-Viện có bao nhiêu dân biểu?</string>
+    <string name="answer_21VN">▪ bốn trăm ba mươi lăm (435)</string>
+
+    <string name="question_22VN">Chúng ta bầu dân biểu cho mấy năm?</string>
+    <string name="answer_22VN">▪ hai năm (2)</string>
+
+    <string name="question_23VN">Cho biết tên dân biểu của bạn.</string>
+    <string name="answer_23VN">▪ Câu trả lời sẽ thay đổi tùy nơi. [Cư dân ở các nơi có Đại Biểu “không có quyền biểu quyết”
+    hoặc Đại Biểu Thường Trú có thể nói tên người đó. Cũng có thể trả lời là vùng đó không có đại diện có quyền biểu quyết tại Quốc Hội.]</string>
+
+    <string name="question_24VN">Thượng-nghị-sĩ đại diện ai?</string>
+    <string name="answer_24VN">▪ Tất cả người dân trong tiểu bang</string>
+
+    <string name="question_25VN">Tại sao có những tiểu bang có nhiều đại biểu hơn các tiểu bang khác?</string>
+    <string name="answer_25VN">▪ (Vì) dân số tiểu bang đó
+     \n▪ (Vì) tiểu bang đó đông dân hơn
+     \n▪ (Vì) một số tiểu bang đông dân hơn tiểu bang khác</string>
+
+    <string name="question_26VN">Nhiệm kỳ Tổng Thống là mấy năm?</string>
+    <string name="answer_26VN">▪ Bốn (4) năm</string>
+
+    <string name="question_27VN">Bầu Tổng Thống vào tháng nào?*</string>
+    <string name="answer_27VN">▪ Tháng Mười Một</string>
+
+    <string name="question_28VN">Hiện nay tên Tổng Thống Hoa Kỳ là gì?*</string>
+    <string name="answer_28VN">▪ Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Tổng Thống Hoa Kỳ.</string>
+
+    <string name="question_29VN">Hiện nay tên Phó Tổng Thống Hoa Kỳ là gì?</string>
+    <string name="answer_29VN">▪ Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Phó Tổng Thống Hoa Kỳ.</string>
+
+    <string name="question_30VN">Nếu Tổng Thống không còn làm việc được nữa, ai sẽ thay thế làm Tổng Thống?</string>
+    <string name="answer_30VN">▪ Phó Tổng Thống</string>
+
+    <string name="question_31VN">Nếu cả Tổng Thống và Phó Tổng Thống không còn làm việc được nữa, ai sẽ thay thế?</string>
+    <string name="answer_31VN">▪ Chủ Tịch Hạ Nghị Viện</string>
+
+    <string name="question_32VN">Ai là Tổng Tư Lệnh quân đội?</string>
+    <string name="answer_32VN">▪ Tổng Thống</string>
+
+    <string name="question_33VN">Ai sẽ ký dự thảo luật thành luật?</string>
+    <string name="answer_33VN">▪ Tổng Thống</string>
+
+    <string name="question_34VN">Ai có quyền phủ quyết các dự luật?</string>
+    <string name="answer_34VN">▪ Tổng Thống</string>
+
+    <string name="question_35VN">Nội các của Tổng Thống làm gì?</string>
+    <string name="answer_35VN">▪ Cố vấn cho Tổng Thống</string>
+
+    <string name="question_36VN">Kể ra Hai chức vụ trong hàng nội các.</string>
+    <string name="answer_36VN">
+       ▪ Bộ Trưởng Canh Nông
+    \n▪ Bộ Trưởng Thương Mại
+    \n▪ Bộ Trưởng Quốc Phòng
+    \n▪ Bộ Trưởng Giáo Dục
+    \n▪ Bộ Trưởng Năng Lượng
+    \n▪ Bộ Trưởng Y Tế và Phục Vụ Nhân Sinh
+    \n▪ Bộ Trưởng Nội An
+    \n▪ Bộ Trưởng Gia Cư và Phát Triển Đô Thị
+    \n▪ Bộ Trưởng Nội Vụ
+    \n▪ Bộ Trưởng Lao Động
+    \n▪ Bộ Trưởng Ngoại Giao
+    \n▪ Bộ Trưởng Giao Thông
+    \n▪ Bộ Trưởng Ngân Khố hay Tài Chính
+    \n▪ Bộ Trưởng Cựu Chiến Binh
+    \n▪ Bộ Trưởng Tư Pháp
+    \n▪ Phó Tổng Thống</string>
+
+    <string name="question_37VN">Ngành tư pháp làm gì?</string>
+    <string name="answer_37VN">▪ duyệt lại luật lệ
+    \n▪ cắt nghĩa luật lệ
+    \n▪ giải quyết tranh cãi (bất hòa)
+    \n▪ quyết định xem luật có đi ngược lại hiến pháp không</string>
+
+    <string name="question_38VN">Tòa án cao nhất ở Hoa Kỳ là gì?</string>
+    <string name="answer_38VN">▪ Tối Cao Pháp Viện</string>
+
+    <string name="question_39VN">Có bao nhiêu thẩm phán ở Tối Cao Pháp Viện?</string>
+    <string name="answer_39VN">▪ Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết số Thẩm Phán của Tòa Án Tối Cao Pháp Viện.</string>
+
+    <string name="question_40VN">Ai đang là Chủ Tịch Tối Cao Pháp Viện?</string>
+    <string name="answer_40VN"> ▪ Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Chánh Án Tòa Án Tối Cao Pháp Viện Hoa Kỳ.</string>
+
+    <string name="question_41VN">Theo Hiến Pháp, chánh phủ liên bang có một số quyền. Một trong các quyền của chánh phủ liên bang là?</string>
+    <string name="answer_41VN">
+    \n▪ in tiền
+    \n▪ tuyên chiến
+    \n▪ lập quân đội
+    \n▪ ký các hòa ước
+    </string>
+
+    <string name="question_42VN">Theo Hiến Pháp, các tiểu bang có một số quyền. Một trong những quyền này là gì?</string>
+    <string name="answer_42VN">▪ cung cấp trường học và giáo dục
+    \n▪ bảo vệ dân chúng (cảnh sát)
+    \n▪ bảo vệ an toàn (các sở cứu hỏa)
+    \n▪ cấp bằng lái xe
+    \n▪ chia vùng và chấp thuận cách xử dụng đất đai</string>
+
+    <string name="question_43VN">Thống Đốc tiểu bang của bạn tên gì?</string>
+    <string name="answer_43VN">▪ Câu trả lời tùy tiểu bang. [Cư dân vùng thủ đô Washington, D.C. phải trả lời là vùng thủ đô DC không có Thống Đốc.]</string>
+
+    <string name="question_44VN">Thủ phủ của tiểu bang bạn tên gì?*</string>
+    <string name="answer_44VN">▪ Câu trả lời tùy theo tiểu bang. [Cư dân vùng thủ đô Washington, D.C. phải trả lời là vùng DC không phải
+    là một tiểu bang và không có thủ phủ. Cư dân các lãnh thổ hải ngoại của Hoa Kỳ phải cho biết thủ phủ của vùng lãnh thổ hải ngoại này.]</string>
+
+    <string name="question_45VN">Hai đảng chính của Hoa Kỳ là gì?*</string>
+    <string name="answer_45VN">▪ Dân Chủ và Cộng Hòa</string>
+
+    <string name="question_46VN">Đảng của Tổng Thống hiện tại là đảng nào?</string>
+    <string name="answer_46VN">▪ Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết thông tin về chính đảng của Tổng Thống
+     Hoa Kỳ.</string>
+
+    <string name="question_47VN">Chủ Tịch Hạ Viện hiện thời tên gì?</string>
+    <string name="answer_47VN">▪ Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Chủ Tịch Hạ viện Dân Biểu Hoa Kỳ.</string>
+
+    <string name="question_48VN">Có bốn tu chính án Hiến Pháp về việc ai có quyền bầu cử. Kể ra Một trong các thứ đó.</string>
+    <string name="answer_48VN">▪ Công dân mười tám (18) tuổi và hơn (được đi bầu).
+\n▪ Không phải trả (thuế bầu cử) để được bầu.
+\n▪ Bất cứ công dân nào cũng được bầu (phụ nữ và nam giới đều được bầu).
+\n▪ Nam giới của bất cứ chủng tộc nào (cũng đều được bầu).</string>
+
+    <string name="question_49VN">Một trong các bổn phận chỉ dành riêng cho công dân Hoa Kỳ là gì?*</string>
+    <string name="answer_49VN">▪ phục vụ trong bồi thẩm đoàn
+\n▪ đi bầu trong bầu cử liên bang</string>
+
+    <string name="question_50VN">Cho biết một quyền của riêng công dân Hoa Kỳ.</string>
+    <string name="answer_50VN">▪ tham gia bầu cử cấp liên bang
+\n▪ ứng cử chức vụ liên bang</string>
+
+    <string name="question_51VN">Cho biết hai quyền của mỗi người sống ở Hoa Kỳ?</string>
+    <string name="answer_51VN">▪ tự do phát biểu ý kiến
+\n▪ tự do ngôn luận
+\n▪ tự do hội họp
+\n▪ tự do thỉnh nguyện chính quyền
+\n▪ tự do tín ngưỡng
+\n▪ quyền mang vũ khí tự vệ</string>
+
+    <string name="question_52VN">Khi nói Lời Tuyên Thệ Trung Thành (Pledge of Allegiance), chúng ta chứng tỏ sự trung thành với cái gì?</string>
+    <string name="answer_52VN">▪ Hoa Kỳ
+\n▪ Lá cờ</string>
+
+    <string name="question_53VN">Khi trở thành công dân Hoa Kỳ, một trong những lời hứa của bạn là gì?</string>
+    <string name="answer_53VN">▪ từ bỏ sự trung thành với các quốc gia khác
+\n▪ bảo vệ Hiến Pháp và luật lệ Hoa Kỳ
+\n▪ tuân hành luật lệ của Hoa Kỳ
+\n▪ phục vụ trong quân đội Hoa Kỳ (nếu cần)
+\n▪ phục vụ (công việc quan trọng cho) Hoa Kỳ (nếu cần)
+\n▪ trung thành với quốc gia Hoa Kỳ</string>
+
+    <string name="question_54VN">Công dân phải bao nhiêu tuổi mới được bầu Tổng Thống?*</string>
+    <string name="answer_54VN">▪ Mười Tám (18) và hơn</string>
+
+    <string name="question_55VN">Có hai cách công dân Hoa Kỳ có thể tham dự vào nền dân chủ là các cách nào?</string>
+    <string name="answer_55VN">▪ bầu cử
+\n▪ tham gia một đảng phái chính trị
+\n▪ tham dự vào một cuộc vận động tranh cử
+\n▪ tham dự vào một nhóm hoạt động công dân
+\n▪ tham dự vào một nhóm hoạt động cộng đồng
+\n▪ phát biểu ý kiến về một vấn đề với một vị dân cử
+\n▪ gọi điện thoại cho nghị sĩ và dân biểu
+\n▪ công khai ủng hộ hoặc phản đối một vấn đề hay chính sách nào đó
+\n▪ tranh cử
+\n▪ góp ý kiến trên một tờ báo</string>
+
+    <string name="question_56VN">Ngày cuối cùng có thể nạp mẫu khai thuế cho liên bang là?*</string>
+    <string name="answer_56VN">▪ 15 Tháng Tư</string>
+
+    <string name="question_57VN">Khi nào tất cả nam giới phải ghi tên cho Sở Quân Vụ (Selective Service)?</string>
+    <string name="answer_57VN">▪ ở tuổi mười tám (18)
+\n▪ ở giữa tuổi mười tám (18) và hai mươi sáu (26)</string>
+
+    <string name="question_58VN">Một trong những lý do khiến người di dân thời thuộc địa tới Mỹ Châu là gì?</string>
+    <string name="answer_58VN">▪ tự do
+\n▪ tự do chính trị
+\n▪ tự do tôn giáo
+\n▪ cơ hội kinh tế
+\n▪ hành xử tôn giáo của mình
+\n▪ tránh sự áp bức</string>
+
+    <string name="question_59VN">Những ai sống tại Mỹ trước khi người Âu Châu tới?</string>
+    <string name="answer_59VN">▪ người da đỏ Mỹ Châu
+\n▪ thổ dân Mỹ Châu</string>
+
+    <string name="question_60VN">Nhóm người nào được mang tới Mỹ Châu và bán làm nô lệ?</string>
+    <string name="answer_60VN">▪ người Phi Châu
+\n▪ người từ Phi Châu</string>
+
+    <string name="question_61VN">Tại sao những người di dân thời thuộc địa chống lại người Anh?</string>
+    <string name="answer_61VN">▪ vì thuế má cao quá (phải đóng thuế mà không có người đại diện)
+\n▪ vì quân đội Anh đồn trú trong nhà của họ (ở trọ, làm trại binh)
+\n▪ vì người di dân thời thuộc địa không có chính quyền tự quản</string>
+
+    <string name="question_62VN">Ai viết Bản Tuyên Ngôn Độc Lập?</string>
+    <string name="answer_62VN">▪ (Thomas) Jefferson</string>
+
+    <string name="question_63VN">Bản Tuyên Ngôn Độc Lập được chấp nhận lúc nào?</string>
+    <string name="answer_63VN">▪ 4 Tháng Bẩy 1776</string>
+
+    <string name="question_64VN">Có 13 tiểu bang nguyên thủy. Cho biết ba tiểu bang.</string>
+    <string name="answer_64VN">▪ New Hampshire
+\n▪ Massachusetts
+\n▪ Rhode Island
+\n▪ Connecticut
+\n▪ New York
+\n▪ New Jersey
+\n▪ Pennsylvania
+\n▪ Delaware
+\n▪ Maryland
+\n▪ Virginia
+\n▪ North Carolina
+\n▪ South Carolina
+\n▪ Georgia</string>
+
+    <string name="question_65VN">Việc gì xảy ra tại Đại Hội Lập Hiến (Constitutional Convention)?</string>
+    <string name="answer_65VN">▪ Soạn thảo Hiến Pháp.
+\n▪ Các nhà lập quốc soạn thảo Hiến Pháp</string>
+
+    <string name="question_66VN">Hiến Pháp được soạn thảo khi nào?</string>
+    <string name="answer_66VN">▪ 1787</string>
+
+    <string name="question_67VN">Các bài tham luận gọi là Federalist Papers có mục đích hỗ trợ việc thông qua Hiến Pháp Hoa Kỳ. Kể tên
+một trong những người viết tham luận.</string>
+    <string name="answer_67VN">▪ (James) Madison
+\n▪ (Alexander) Hamilton
+\n▪ (John) Jay
+\n▪ Publius</string>
+
+    <string name="question_68VN">Một việc gì làm Benjamin Franklin nổi tiếng?</string>
+    <string name="answer_68VN">▪ nhà ngoại giao Hoa Kỳ
+\n▪ thành viên già nhất của Đại Hội Lập Hiến
+\n▪ Tổng Giám Đốc Bưu Điện đầu tiên của Hoa Kỳ
+\n▪ người viết cuốn lịch “Poor Richard’s Almanac”
+\n▪ khởi công xây các thư viện miễn phí đầu tiên của Hoa Kỳ</string>
+
+    <string name="question_69VN">Ai được gọi là cha đẻ của nước Mỹ?</string>
+    <string name="answer_69VN">▪ (George) Washington</string>
+
+    <string name="question_70VN">Ai là Tổng Thống đầu tiên?*</string>
+    <string name="answer_70VN">▪ (George) Washington</string>
+
+    <string name="question_71VN">Hoa Kỳ mua lãnh thổ nào của Pháp vào năm 1803?</string>
+    <string name="answer_71VN">▪ Lãnh Thổ Louisiana
+                             \n▪ Louisiana</string>
+
+    <string name="question_72VN">Nói tên một trong những cuộc chiến Hoa Kỳ tham dự thời 1800.</string>
+    <string name="answer_72VN">▪ Chiến tranh 1812
+\n▪ Chiến tranh Hoa Kỳ-Mễ-Tây-Cơ (Mexico)
+\n▪ Nội chiến
+\n▪ Chiến tranh Hoa Kỳ-Tây-Ban-Nha</string>
+
+    <string name="question_73VN">Tên gọi của cuộc chiến trên đất Hoa Kỳ giữa miền Bắc và miền Nam là gì.</string>
+    <string name="answer_73VN">▪ Nội chiến
+\n▪ Chiến tranh giữa các Tiểu Bang</string>
+
+    <string name="question_74VN">Cho biết một vấn đề đưa tới cuộc nội chiến.</string>
+    <string name="answer_74VN">▪ vấn đề nô lệ
+\n▪ các vấn đề kinh tế
+\n▪ quyền của các tiểu bang</string>
+
+    <string name="question_75VN">Một điều quan trọng mà Abraham Lincoln làm là gì?*</string>
+    <string name="answer_75VN">▪ giải phóng nô lệ (Tuyên Ngôn Giải Phóng)
+\n▪ giữ gìn (hoặc bảo tồn) đoàn kết Quốc Gia
+\n▪ lãnh đạo Hoa Kỳ trong Cuộc Nội Chiến</string>
+
+    <string name="question_76VN">Tuyên Ngôn Giải Phóng làm gì?</string>
+    <string name="answer_76VN">▪ giải phóng nô lệ
+\n▪ giải phóng nô lệ thuộc tập hợp (nhóm) các tiểu bang ly khai miền Nam
+\n▪ giải phóng nô lệ ở các tiểu bang miền Nam
+\n▪ giải phóng nô lệ ở đa số các tiểu bang miền Nam</string>
+
+    <string name="question_77VN">Bà Susan B. Anthony làm gì?</string>
+    <string name="answer_77VN">▪ tranh đấu cho quyền phụ nữ
+\n▪ tranh đấu cho dân quyền</string>
+
+    <string name="question_78VN">Cho biết một cuộc chiến mà Hoa Kỳ tham dự vào thập niên 1900.*</string>
+    <string name="answer_78VN">▪ Thế Chiến Thứ Nhất
+\n▪ Thế Chiến Thứ Hai
+\n▪ Chiến Tranh Cao Ly (Triều Tiên)
+\n▪ Chiến Tranh Việt Nam
+\n▪ Chiến tranh Vùng Vịnh (Ba Tư)</string>
+
+    <string name="question_79VN">Ai là Tổng Thống trong Thế Chiến Thứ Nhất?</string>
+    <string name="answer_79VN">▪ (Woodrow) Wilson</string>
+
+    <string name="question_80VN">Ai là Tổng Thống trong thời kỳ Khủng Hoảng Kinh Tế và Thế Chiến Thứ Hai? </string>
+    <string name="answer_80VN">▪ (Franklin) Roosevelt</string>
+
+    <string name="question_81VN">Trong Thế Chiến Thứ Hai, Hoa Kỳ chiến đấu chống các nước nào? </string>
+    <string name="answer_81VN">▪ Nhật Bản, Đức và Ý</string>
+
+    <string name="question_82VN">Trước khi trở thành Tổng Thống, Eisenhower là tướng lãnh. Ông ta đánh trận nào?</string>
+    <string name="answer_82VN">▪ Thế Chiến Thứ Hai</string>
+
+    <string name="question_83VN">Trong thời kỳ Chiến Tranh Lạnh, quan tâm chính của Hoa Kỳ là gì?</string>
+    <string name="answer_83VN">▪ Chủ Nghĩa Cộng Sản</string>
+
+    <string name="question_84VN">Phong trào nào tìm cách chấm dứt sự phân biệt chủng tộc?</string>
+    <string name="answer_84VN">▪ (phong trào) dân quyền</string>
+
+    <string name="question_85VN">Martin Luther King, Jr. đã làm gì?*</string>
+    <string name="answer_85VN">▪ tranh đấu cho dân quyền
+\n▪ hoạt động nhằm mang lại bình đẳng cho mọi người Mỹ</string>
+
+    <string name="question_86VN">Biến cố lớn lao nào xảy ra vào ngày 11 tháng 9 năm 2001 tại Hoa Kỳ?</string>
+    <string name="answer_86VN">▪ Bọn khủng bố tấn công Hoa Kỳ</string>
+
+    <string name="question_87VN">Kể tên một bộ lạc da đỏ tại Mỹ.</string>
+    <string name="answer_87VN">[Phỏng vấn viên USCIS sẽ được cung cấp một danh sách các bộ lạc da đỏ được liên bang công nhận.]
+\n▪ Cherokee
+\n▪ Navajo
+\n▪ Sioux
+\n▪ Chippewa
+\n▪ Choctaw
+\n▪ Pueblo
+\n▪ Apache
+\n▪ Iroquois
+\n▪ Creek
+\n▪ Blackfeet
+\n▪ Seminole
+\n▪ Cheyenne
+\n▪ Arawak
+\n▪ Shawnee
+\n▪ Mohegan
+\n▪ Huron
+\n▪ Oneida
+\n▪ Lakota
+\n▪ Crow
+\n▪ Teton
+\n▪ Hopi
+\n▪ Inuit</string>
+
+    <string name="question_88VN">Cho biết một trong hai con sông dài nhất ở Hoa Kỳ</string>
+    <string name="answer_88VN">▪ (Sông) Missouri
+\n▪ (Sông) Mississippi</string>
+
+    <string name="question_89VN">Biển nào ở bờ biển phía Tây Hoa Kỳ?</string>
+    <string name="answer_89VN">▪ Thái-Bình-Dương</string>
+
+    <string name="question_90VN">Biển nào ở bờ biển phía Đông Hoa Kỳ?</string>
+    <string name="answer_90VN">▪ Đại-Tây-Dương</string>
+
+    <string name="question_91VN">Cho biết một lãnh thổ hải ngoại của Hoa Kỳ.</string>
+    <string name="answer_91VN">▪ Puerto Rico
+\n▪ Quần Đảo Virgin
+\n▪ Đảo Samoa
+\n▪ Quần Đảo Bắc Mariana
+\n▪ Đảo Guam</string>
+
+    <string name="question_92VN">Cho biết một trong những tiểu bang ráp ranh Gia-Nã-Đại</string>
+    <string name="answer_92VN">▪ Maine
+\n▪ New Hampshire
+\n▪ Vermont
+\n▪ New York
+\n▪ Pennsylvania
+\n▪ Ohio
+\n▪ Michigan
+\n▪ Minnesota
+\n▪ North Dakota
+\n▪ Montana
+\n▪ Idaho
+\n▪ Washington
+\n▪ Alaska</string>
+
+    <string name="question_93VN">Cho biết một trong những tiểu bang ráp ranh Mễ-Tây-Cơ</string>
+    <string name="answer_93VN">▪ California
+\n▪ Arizona
+\n▪ New Mexico
+\n▪ Texas</string>
+
+    <string name="question_94VN">Thủ đô của Hoa Kỳ tên gì?*</string>
+    <string name="answer_94VN">▪ Washington, D.C.</string>
+
+    <string name="question_95VN">Tượng Nữ Thần Tự Do ở đâu?*</string>
+    <string name="answer_95VN">▪ (Hải Cảng) Nữu Ước
+\n▪ Đảo Liberty [Cũng chấp nhận nếu trả lời là New Jersey, gần thành phố New York và trên sông Hudson.]</string>
+
+    <string name="question_96VN">Tại sao lá cờ Hoa Kỳ có 13 lằn gạch?</string>
+    <string name="answer_96VN">▪ bởi vì đã có 13 thuộc địa nguyên thủy
+\n▪ bởi vì các lằn này tượng trưng cho 13 thuộc địa nguyên thủy</string>
+
+    <string name="question_97VN">Tại sao lá cờ Hoa Kỳ có 50 ngôi sao?*</string>
+    <string name="answer_97VN">▪ bởi vì mỗi tiểu bang có một ngôi sao
+\n▪ bởi vì mỗi ngôi sao tượng trưng cho một tiểu bang
+\n▪ bởi vì có 50 tiểu bang</string>
+
+    <string name="question_98VN">Tựa của bài quốc ca Hoa Kỳ là gì?</string>
+    <string name="answer_98VN">▪ The Star-Spangled Banner</string>
+
+    <string name="question_99VN">Ngày nào là ngày Lễ Độc Lập?*</string>
+    <string name="answer_99VN">▪ 4 Tháng Bẩy</string>
+
+    <string name="question_100VN">. Cho biết hai ngày lễ quốc gia của Hoa Kỳ.</string>
+    <string name="answer_100VN">▪ Tết Tây
+\n▪ Ngày Sinh của Martin Luther King, Jr.
+\n▪ Ngày Các Tổng Thống
+\n▪ Lễ Chiến Sĩ Trận Vong (Memorial Day)
+\n▪ Lễ Độc Lập (Independence Day)
+\n▪ Lễ Lao Động (Labor Day)
+\n▪ Ngày Tưởng Niệm Columbus
+\n▪ Ngày Cựu Chiến Binh (Veterans Day)
+\n▪Lễ Tạ Ơn (Thanksgiving)
+\n▪ Lễ Giáng Sinh</string>
+
+
+    <!-- Settings -->
+    <string name="part1Btn">Answer</string>
+    <string name="part1BtnVn">Tiếng Việt</string>
+    <string name="todo">TODO</string>
+    <string name="quesNum" />
+    <string name="english">English</string>
+    <string name="back_to_question">Back to Question</string>
+    <string name="quesNumB"></string>
+    <string name="us_citizens_questions">US Citizent Questions</string>
+    <string name="total_100_questions">Total 100 Questions</string>
+
+</resources>
+
